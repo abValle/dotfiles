@@ -52,3 +52,5 @@
 [user]
 	email = allanvalle@outlook.com
 	name = Allan Valle
+[init]
+	defaultBranch = master

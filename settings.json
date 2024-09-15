@@ -32,35 +32,13 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "files.exclude":
-    {
-        "**/.git": true,
-        "**/.DS_Store": true,
-        "node_modules": true,
-        "tmp": true,
-        "log": true,
-        ".asset-cache": true,
-        ".bundle": true,
-        ".ipynb_checkpoints": true,
-        ".pytest_cache": true,
-        ".sass-cache": true,
-        ".svn": true,
-        "__pycache__": true,
-        "_site": true,
-        "build": true,
-        "coverage": true,
-        "dist": true,
-        "public/packs": true,
-        "**/.egg-info": true
-    },
     "files.watcherExclude":
     {
-        "**/audits/**": true,
-        "**/coverage/**": true,
-        "**/log/**": true,
-        "**/node_modules/**": true,
-        "**/tmp/**": true,
-        "**/vendor/**": true
+      "**/audits/**": true,
+      "**/coverage/**": true,
+      "**/node_modules/**": true,
+      "**/tmp/**": true,
+      "**/vendor/**": true
     },
     "git.enabled": false,
     "telemetry.enableTelemetry": false,
